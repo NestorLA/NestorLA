@@ -1,4 +1,4 @@
-### Hi there, I'm Nestor 👋
+### Hi there, I'm Nestor Acerbo👋
 
 - 👯 I’m looking to collaborate on React and contribute to open source projects.
 - 🤔 I’m looking for help with better coding in general - Data structures and Algorithms.
@@ -26,15 +26,7 @@
 <br />
 <br />
 
-<img align="left" alt="nasreekar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nasreekar&show_icons=true&hide_border=true" />
-
-<br />
-
-### Courtesy
-
-- [Github Readme Tutorial - codeSTACKr](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
-- [Blog Post Workflow - Gautam Krishna](https://github.com/gautamkrishnar/blog-post-workflow)
-- [Github Readme Stats - Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nestorla)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **NestorLA/NestorLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
